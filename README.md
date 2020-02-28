@@ -9,4 +9,4 @@ This is WebApp uses:
 
 ## Web-address
 
-e-commerce-phone-store-react.netlify.com
+https://e-commerce-phone-store-react.netlify.com/
